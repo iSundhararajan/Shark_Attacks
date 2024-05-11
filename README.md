@@ -52,3 +52,6 @@ python main.py --input input_file.txt --output output_file.txt
 6. **Usage Instructions:**
    - Provides clear instructions for running the code, including installation steps and examples of command-line usage.
    - Includes sample input data and expected output to demonstrate the functionality of the code.
+
+## Our Presentation
+https://docs.google.com/presentation/d/1OGd7DCcsSH8YKNK7F5VwOIE-4SYFw-IrhvNdEJq7fVQ/edit?usp=sharing
